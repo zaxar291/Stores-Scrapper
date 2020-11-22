@@ -1,0 +1,12 @@
+@using System.IO
+@{
+    ViewData["Title"] = "Login ";
+    ViewData["dir"] = Directory.GetCurrentDirectory();
+}
+
+<form class="form-control">
+    <input type="text" class="form-control" name="login[login]"/>
+    <input type="password" class="form-control" name="login[pass]"/>
+</form>
+
+@ViewData["dir"]

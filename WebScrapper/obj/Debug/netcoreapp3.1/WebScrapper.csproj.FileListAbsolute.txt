@@ -1,0 +1,142 @@
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/appsettings.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.deps.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.runtimeconfig.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.runtimeconfig.dev.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.pdb
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.Views.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebScrapper.Views.pdb
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/FSharp.Core.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/ScrapySharp.Core.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/ScrapySharp.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/cs/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/de/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/en/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/es/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/fr/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/it/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/ja/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/ko/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/pl/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/pt-BR/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/ru/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/tr/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/zh-Hans/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/zh-Hant/FSharp.Core.resources.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.csprojAssemblyReference.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.AssemblyInfoInputs.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.AssemblyInfo.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.csproj.CoreCompileInputs.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.MvcApplicationPartsAssemblyInfo.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.RazorAssemblyInfo.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.RazorAssemblyInfo.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.TagHelpers.input.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.TagHelpers.output.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.RazorCoreGenerate.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Login/Index.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.RazorTargetAssemblyInfo.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.RazorTargetAssemblyInfo.cs
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.Views.pdb
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.csproj.CopyComplete
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/staticwebassets/WebScrapper.StaticWebAssets.Manifest.cache
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/staticwebassets/WebScrapper.StaticWebAssets.xml
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.dll
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.pdb
+/home/user/sharp/test/blackmedia/WebScrapper/obj/Debug/netcoreapp3.1/WebScrapper.genruntimeconfig.cache
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/WebDriver.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Scrapper/Resources/scrapper.status.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/LinqToExcel.dll
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Scrapper/Resources/collections.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Scrapper/Resources/vendors.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Scrapper/Resources/collections_old.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/Scrapper/Resources/selenium/chrome/proxy.plugin/manifest.json
+/home/user/sharp/test/blackmedia/WebScrapper/bin/Debug/netcoreapp3.1/temp/selenium/chrome/814414171/manifest.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Scrapper\Resources\collections.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Scrapper\Resources\collections_old.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Scrapper\Resources\scrapper.status.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Scrapper\Resources\selenium\chrome\proxy.plugin\manifest.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Scrapper\Resources\vendors.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\temp\selenium\chrome\814414171\manifest.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.exe
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.deps.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.runtimeconfig.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.runtimeconfig.dev.json
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.pdb
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.Views.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebScrapper.Views.pdb
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\LinqToExcel.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\ScrapySharp.Core.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\ScrapySharp.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\en\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Black Media\WebScrapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.csprojAssemblyReference.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.AssemblyInfoInputs.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.AssemblyInfo.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.csproj.CoreCompileInputs.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.RazorAssemblyInfo.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.RazorAssemblyInfo.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.TagHelpers.input.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.TagHelpers.output.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.RazorCoreGenerate.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.RazorTargetAssemblyInfo.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.RazorTargetAssemblyInfo.cs
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.Views.pdb
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.csproj.CopyComplete
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\staticwebassets\WebScrapper.StaticWebAssets.Manifest.cache
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\staticwebassets\WebScrapper.StaticWebAssets.xml
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.dll
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.pdb
+D:\Black Media\WebScrapper\obj\Debug\netcoreapp3.1\WebScrapper.genruntimeconfig.cache
